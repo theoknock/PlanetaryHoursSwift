@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MKDirectionsApplicationSupportedModes</key>
+	<array/>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your location, and exercise caution if providing personal or financial information.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your location, and exercise caution if providing personal or financial information.</string>
+</dict>
+</plist>
